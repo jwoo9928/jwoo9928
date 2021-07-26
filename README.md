@@ -1,6 +1,6 @@
 <h1 align=center>jwoo9928's Github 👋 </h1>
 
-<h2 align=center> stat 🌱 </h2>
+<h2 align=center> status!! 🌱 </h2>
 <p align="center"><img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a></p>
 </br>
 
