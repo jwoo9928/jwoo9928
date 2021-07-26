@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align=center>jwoo9928's Github 👋 </h1>
+
+<h2 align=center> stat 🌱 </h2>
+<p align="center"><img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a></p>
+</br>
+
+![jwoo9928's GitHub stats](https://github-readme-stats.vercel.app/api?username=jwoo9928&theme=vue&show_icons=true)</br>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwoo9928&layout=compact&theme=calm" /></br>
+
 
 <!--
 **jwoo9928/jwoo9928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
