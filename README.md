@@ -10,7 +10,7 @@ I'm a passionate software developer with a focus on creating intuitive user expe
 <br/>
 
 ## Career 💻
-- <a href = https://www.ictintern.or.kr/homepage/system/systemViewG.do> ICT Global Intern (San Jose) </a> **(2024.07 ~ 2024.09)**
+- <a href = https://www.ictintern.or.kr/homepage/system/systemViewG.do> ICT Global Intern (San Jose) </a> **(2024.07 ~ 2024.11)**
 - <a href = https://bit.ly/cnu-sw-academy> CNU SW Academy TA </a> **(2023.05 ~ 2023.11)**
 - <a href = https://pilab.co/> PILAB Technology Mobile Engineer </a> **(2021.11 ~ 2023.08)**
 <br/>
