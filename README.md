@@ -4,7 +4,7 @@
 </br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwoo9928&layout=compact&theme=calm" /></br>** -->
-## About Me [👀 Visit Portfolio](https://www.notion.so/1a41459df97b494bbf665834b3f2863b)
+## About Me
 Hi there! 👋
 I'm a passionate software developer with a focus on creating intuitive user experiences and efficient, scalable applications. From AI-powered language correction services to multi-chain crypto wallets, I build solutions that blend advanced technology with user-friendly design. Skilled in technologies like Nest.js, Next.js, and React Native, I strive to optimize functionality and performance in every project. Always eager to learn, collaborate, and bring new ideas to life!
 <br/>
