@@ -13,7 +13,7 @@ I'm a passionate software developer with a focus on creating intuitive user expe
 - [ICT Global Intern (San Jose)](https://www.ictintern.or.kr/homepage/system/systemViewG.do) **(2024.07 ~ 2024.11)**
 - [CNU SW Academy TA](https://bit.ly/cnu-sw-academy) **(2023.05 ~ 2023.11)**
 - [Solif (Startup)](https://www.solif.co/) **(2022.09 ~ 2023.04)**
-- [nauem (Startup)](https://guristartup.or.kr/bbs/content.php?co_id=companyList/) **(2022.09 ~ 2022.11)**
+- [nauem (Startup)](https://guristartup.or.kr/bbs/content.php?co_id=companyList/) **(2022.01 ~ 2022.11)**
 - [PILAB Technology Mobile Engineer](https://pilab.co/) **(2021.11 ~ 2023.08)**
 <br/>
 
