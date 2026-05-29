@@ -21,6 +21,17 @@ Beyond simply implementing features, I focus on optimizing **business logic and 
 
 <br/>
 
+## 💼 Experience
+*Real-world experiences driving business impact and technical excellence.*
+- **[Seoul AI Foundation](#)** | `Software Engineer` - *Developing AI-powered Proof of Concept (PoC) for automated data analysis and evaluation systems.* **(2024.12 ~ Present)**
+- **[ICT Global Intern (San Jose)](#)** | `Software Engineering Intern` - *Developed and optimized AI-driven applications and services.* **(2024.07 ~ 2024.11)**
+- **[CNU SW Academy](#)** | `Teaching Assistant (TA)` - *Lectured and mentored students in modern
+- **[Solif](#)** | `Co-founder & Full-Stack Developer` - *Newsletter-based reading subscription service.* **(2022.09 ~ 2023.04)**
+- **[nauem](#)** | `Software Engineer` - *Developed an application to support and manage subsidies for people with disabilities.* **(2022.01 ~ 2022.11)**
+- **[PILAB Technology](#)** | `Mobile Engineer` - *Developed a multi-chain cryptocurrency wallet application.* **(2021.11 ~ 2023.08)**
+
+<br/>
+
 <br/>
 
 ## 🛠 Tech Stack
@@ -56,9 +67,10 @@ Beyond simply implementing features, I focus on optimizing **business logic and 
 <p align="center">
 
 <!-- GitHub Stats -->
-<a href="https://github.com/jwoo9928?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api?username=jwoo9928&theme=gotham&show_icons=true&count_private=true&hide_border=true" width="48%" alt="jwoo9928's GitHub stats"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jwoo9928&show_icons=true&bg_color=00000000&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=777777&v=123" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwoo9928&layout=compact&bg_color=00000000&hide_border=true&title_color=3178C6&text_color=777777&v=123" width="48%" />
+</p>
 
 <!-- GitHub Streak Stats -->
 <a href="https://github.com/jwoo9928?tab=stars">
