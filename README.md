@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 **Software Engineer specializing in AI-driven applications and Web3 infrastructure with 4+ years of hands-on experience.**
-Beyond simply implementing features, I focus on optimizing **business logic and user experience (UX)**—ranging from AI-powered language correction services to multi-chain cryptocurrency wallets. Through a global internship in Silicon Valley and experiences at various startups, I have developed the ability to proactively solve problems in agile environments. Currently, I am deeply interested in LLM fine-tuning (LoRA) and designing highly scalable backend architectures (Nest.js).
+Beyond simply implementing features, I focus on optimizing **business logic and user experience (UX)**—ranging from AI-powered language correction services to multi-chain cryptocurrency wallets. Through a global internship in Silicon Valley and experiences at various startups, I have developed the ability to proactively solve problems in agile environments. "Currently, I am deeply focused on developing AI-powered automation systems and designing highly scalable backend architectures."
 
 <br/>
 
@@ -68,8 +68,7 @@ Beyond simply implementing features, I focus on optimizing **business logic and 
 
 <!-- GitHub Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jwoo9928&show_icons=true&bg_color=00000000&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=777777&v=123" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwoo9928&layout=compact&bg_color=00000000&hide_border=true&title_color=3178C6&text_color=777777&v=123" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jwoo9928&bg_color=transparent&hide_border=true&color=3178C6&line=3178C6&point=3178C6" width="100%" alt="Activity Graph" />
 </p>
 
 <!-- GitHub Streak Stats -->
