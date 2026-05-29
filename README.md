@@ -4,42 +4,50 @@
 </br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwoo9928&layout=compact&theme=calm" /></br>** -->
-## About Me
-Hi there! 👋
-I'm a passionate software developer with a focus on creating intuitive user experiences and efficient, scalable applications. From AI-powered language correction services to multi-chain crypto wallets, I build solutions that blend advanced technology with user-friendly design. Skilled in technologies like Nest.js, Next.js, and React Native, I strive to optimize functionality and performance in every project. Always eager to learn, collaborate, and bring new ideas to life!
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3178C6&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+Web3+Infrastructure;Building+Scalable+Applications" alt="Typing SVG" />
+  
+  <br/>
+  <a href="mailto:jwoo9928@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/jaewoo9928"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-25292E?style=flat-square&logo=vercel&logoColor=white"/></a>
+</div>
+
 <br/>
 
-## Career 💻
-- [ICT Global Intern (San Jose)](https://www.ictintern.or.kr/homepage/system/systemViewG.do) **(2024.07 ~ 2024.11)**
-- [CNU SW Academy TA](https://bit.ly/cnu-sw-academy) **(2023.05 ~ 2023.11)**
-- [Solif (Startup)](https://www.solif.co/) **(2022.09 ~ 2023.04)**
-- [nauem (Startup)](https://guristartup.or.kr/bbs/content.php?co_id=companyList/) **(2022.01 ~ 2022.11)**
-- [PILAB Technology Mobile Engineer](https://pilab.co/) **(2021.11 ~ 2023.08)**
+## 👨‍💻 About Me
+**Software Engineer specializing in AI-driven applications and Web3 infrastructure with 4+ years of hands-on experience.**
+Beyond simply implementing features, I focus on optimizing **business logic and user experience (UX)**—ranging from AI-powered language correction services to multi-chain cryptocurrency wallets. Through a global internship in Silicon Valley and experiences at various startups, I have developed the ability to proactively solve problems in agile environments. Currently, I am deeply interested in LLM fine-tuning (LoRA) and designing highly scalable backend architectures (Nest.js).
+
 <br/>
 
-## Skills 🛠
- ### Languages
+<br/>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+## 🛠 Tech Stack
+### 🔹 AI & Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,html,css" />
+</a>
+<br/>
+*(HuggingFace, LoRA, Unsloth, PEFT)*
 
-### AI / Machine Learning
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=Google-Colab&logoColor=white"/> <img src="https://img.shields.io/badge/Unsloth-4B0082?style=flat-square&logo=OpenAI&logoColor=white"/> <img src="https://img.shields.io/badge/HuggingFace-FF6F00?style=flat-square&logo=hugging-face&logoColor=white"/> <img src="https://img.shields.io/badge/Transformers-FF9900?style=flat-square&logo=OpenAI&logoColor=white"/> <img src="https://img.shields.io/badge/PEFT-FFCC00?style=flat-square&logo=OpenAI&logoColor=black"/> <img src="https://img.shields.io/badge/LoRA-8A2BE2?style=flat-square&logo=OpenAI&logoColor=white"/>
+### 🔹 Frontend & Backend
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,express,fastapi" />
+</a>
 
-### Front-End
-<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/> <img src="https://img.shields.io/badge/Recoil-000000?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Styled Components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white"/><br>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
+### 🔹 Database & DevOps
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,aws,docker,nginx,githubactions" />
+</a>
 
-### Back-End
+<br/><br/>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
-
-### DevOps / Infra
-
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=GitHubActions&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
-
-### Tools
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=JiraSoftware&logoColor=white"/>
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jwoo9928&show_icons=true&bg_color=00000000&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=777777" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwoo9928&layout=compact&bg_color=00000000&hide_border=true&title_color=3178C6&text_color=777777" width="48%" />
+</p>
 
 
 <!-- <br/> [![trophy](https://github-profile-trophy.vercel.app/?username=jwoo9928)](https://github.com/ryo-ma/github-profile-trophy) -->
@@ -65,8 +73,3 @@ I'm a passionate software developer with a focus on creating intuitive user expe
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=jwoo9928&theme=react-dark&hide_border=true&area=true&custom_title=Total%20Contribution%20Graph%20for%20jwoo9928" width="95%" alt="jwoo9928's activity graph"/>
     </a>
 </p> -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwoo9928&layout=compact&theme=blue-green&hide_border=true&area=true" width="48%" />
-<a href="https://github.com/PrinceGoblinTech?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=jwoo9928&theme=onestar&no-frame=true&column=3&row=2"  width="38%" /></a>
-</p>
-
