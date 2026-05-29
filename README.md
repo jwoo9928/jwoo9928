@@ -56,8 +56,8 @@ Beyond simply implementing features, I focus on optimizing **business logic and 
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jwoo9928&show_icons=true&bg_color=00000000&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=777777" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwoo9928&layout=compact&bg_color=00000000&hide_border=true&title_color=3178C6&text_color=777777" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jwoo9928&show_icons=true&bg_color=00000000&hide_border=true&title_color=3178C6&icon_color=3178C6&text_color=777777&v=123" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jwoo9928&layout=compact&bg_color=00000000&hide_border=true&title_color=3178C6&text_color=777777&v=123" width="48%" />
 </p>
 
 
